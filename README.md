@@ -2,6 +2,18 @@
 
 Browser game — mine coins.
 
+## Play
+
+https://pfaustino.github.io/mining-coins/
+
 ## Dev
 
-Work in progress. Scaffold coming soon.
+```bash
+npm install
+npm run dev
+```
+
+- `?dev=1` — dev panel
+- Balance in `data/game.json`
+
+See [ARCHITECTURE.md](ARCHITECTURE.md).
